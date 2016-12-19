@@ -6,3 +6,5 @@ Soy profesor [UGR](http://www.ugr.es)
 
 ### Articulos
 
+![pollo ugr](logo-ugr2.jpg)
+
